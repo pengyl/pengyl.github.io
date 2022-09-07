@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小海豚呀
-subtitle: "小标题"
-description: "小标题"
+title: 我的博客
+subtitle: "我的博客o(￣ヘ￣o＃)"
+description: "peng"
 keywords:
-author: pengyanling
+author: pengyl
 timezone: ""
 
 # URL
@@ -106,5 +106,10 @@ deploy:
   type: "git"
   repository: https://github.com/pengyl/pengyl.github.io.git # < > 中的内容自己进行替换，< > 记得去掉。
   branch: master # 用 main 还是 master 随你，都行。
+
 navbar:
-  blog_title: 博客标题
+  blog_title: 小海豚呀
+index:
+  slogan:
+    enable: true
+    text: 又是熬夜的一天
